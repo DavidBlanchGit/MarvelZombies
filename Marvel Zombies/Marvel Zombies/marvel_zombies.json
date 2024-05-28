@@ -1,0 +1,637 @@
+[
+ {
+  "Heroe": "Thor",
+  "Afiliación": "Vengadores, Ultimates, GOG",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Spiderman x2 ",
+  "Afiliación": "Vengadores, Fundación Futura, HA, Defensores, NV",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Black Panther x2 ",
+  "Afiliación": "Vengadores, HA, Iluminati",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Ms Marvel ",
+  "Afiliación": "Vengadores, Defensores, NV, Xmen",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Scarlet Witch",
+  "Afiliación": "Vengadores, Ultimates, Force Works, DL",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Doctor Strange ",
+  "Afiliación": "Vengadores, HA, MS, Iluminati, Defensores, NV",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Wasp x2",
+  "Afiliación": "Vengadores, Ultimates, DL, Defensores",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Hulk x2",
+  "Afiliación": "Vengadores, HA, Iluminati, Defensores",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Vision",
+  "Afiliación": "Vengadores",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Winter Soldier x2",
+  "Afiliación": "Invasores, LNV",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Magneto",
+  "Afiliación": "Defensores, Xmen, CFI, HM",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Mystique",
+  "Afiliación": "Xmen, HM",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Wolverine",
+  "Afiliación": "Vengadores, NV, Xmen",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Storm",
+  "Afiliación": "DL, Xmen, CFI",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Picara",
+  "Afiliación": "Vengadores, Xmen, HM",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Colossus",
+  "Afiliación": "Excalibur,Xmen",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Black Cat",
+  "Afiliación": "HA, MS, Defensores",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Kraven",
+  "Afiliación": "Vengadores, 6S",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Mysterio",
+  "Afiliación": "Defensores, 6S",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Sandman",
+  "Afiliación": "Vengadores, 6S",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Scorpion",
+  "Afiliación": "MM",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Venom",
+  "Afiliación": "Vengadores, Thunderbolts, 6S",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Gamora",
+  "Afiliación": "GOG",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Groot",
+  "Afiliación": "GOG",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Mantis",
+  "Afiliación": "Vengadores, GOG, Defensores",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Nova",
+  "Afiliación": "Vengadores, GOG",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Mr Fantastic",
+  "Afiliación": "Vengadores, Fundación Futura, 4F, Iluminati",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Invisible Woman",
+  "Afiliación": "Vengadores, Fundación Futura, 4F, DL",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Human Torch",
+  "Afiliación": "Vengadores, Fundación Futura, HA, 4F, Invasores",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "The Thing",
+  "Afiliación": "Fundación Futura, 4F, NV",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Baron Zemo ",
+  "Afiliación": "LNV, MM",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Beast",
+  "Afiliación": "Vengadores, Iluminati, Xmen",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Black Bolt ",
+  "Afiliación": "Vengadores, Iluminati",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Black knight ",
+  "Afiliación": "Vengadores, Excalibur, HA, Defensores, LNV, MM",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Blade ",
+  "Afiliación": "MS",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Bullseye ",
+  "Afiliación": "4T",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Capitan America",
+  "Afiliación": "Vengadores, Ultimates, Iluminati, Invasores",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Captain Marvel",
+  "Afiliación": "Vengadores",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Carnage",
+  "Afiliación": "4T",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Crossbones",
+  "Afiliación": "NA",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Cyclops",
+  "Afiliación": "Xmen",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Daredevil",
+  "Afiliación": "Vengadores, Defensores, NV",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Dark Phoenix",
+  "Afiliación": "Xmen, CFI",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Deadpool",
+  "Afiliación": "Vengadores, Thunderbolts",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Doctor Doom",
+  "Afiliación": "Fundación Futura, 4T",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Doctor octopus",
+  "Afiliación": "4T, MM, 6S",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Electro",
+  "Afiliación": "6S",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Elektra",
+  "Afiliación": "HA",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Emma Frost",
+  "Afiliación": "CFI",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Gambito",
+  "Afiliación": "Xmen",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Ghost Rider",
+  "Afiliación": "Thunderbolts, HA, MS, Defensores, NV",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Hawkeye",
+  "Afiliación": "Vengadores, Ultimates, Defensores, NV",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Iceman",
+  "Afiliación": "Defensores, Xmen",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Iron Man",
+  "Afiliación": "Vengadores, Ultimates, Force Works, GOG, Iluminati",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Jessica Jones",
+  "Afiliación": "Vengadores, Defensores",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Juggernaut",
+  "Afiliación": "Xmen, HM",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Kingpin",
+  "Afiliación": "4T",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Kitty Pride",
+  "Afiliación": "Excalibur, GOG",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Lizard",
+  "Afiliación": "6S",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Loki",
+  "Afiliación": "Vengadores, GOG, Defensores",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Luke Cage",
+  "Afiliación": "Vengadores, Thunderbolts, HA, NV",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Miles Morales",
+  "Afiliación": "Vengadores,NV",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Moon Knight",
+  "Afiliación": "Vengadores, HA, MS",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Morbius",
+  "Afiliación": "MS",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Namor",
+  "Afiliación": "Vengadores, Iluminati, Invasores, Defensores, Xmen",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Nightcrawler",
+  "Afiliación": "Excalibur, Xmen",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Psylocke",
+  "Afiliación": "Excalibur, Xmen, HM",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Sabretooth",
+  "Afiliación": "Vengadores, Xmen, HM",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Shang-chi",
+  "Afiliación": "Vengadores, HA, NV",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Spider Woman",
+  "Afiliación": "Vengadores, Force Works, DL, NV",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Star Lord",
+  "Afiliación": "GOG, Defensores",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Vulture",
+  "Afiliación": "6S",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "War Machine",
+  "Afiliación": "Vengadores, Force Works, Defensores",
+  "Estado": "Vivo"
+ },
+ {
+  "Heroe": "Wasp ",
+  "Afiliación": "Vengadores, Ultimates, DL, Defensores",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Iron Man",
+  "Afiliación": "Vengadores, Ultimates, Force Works, GOG, Iluminati",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Deadpool",
+  "Afiliación": "Vengadores, Thunderbolts",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Capitan America",
+  "Afiliación": "Vengadores, Ultimates, Iluminati, Invasores",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Captain Marvel",
+  "Afiliación": "Vengadores",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Hulk",
+  "Afiliación": "(Vengadores, HA, Iluminati, Defensores",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Cyclops",
+  "Afiliación": "Xmen",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Sabretooth",
+  "Afiliación": "Vengadores, Xmen, HM",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Iceman",
+  "Afiliación": "Defensores, Xmen",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Juggernaut",
+  "Afiliación": "Xmen, HM",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Psylocke",
+  "Afiliación": "Excalibur, Xmen, HM",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Dark Phoenix",
+  "Afiliación": "Xmen, CFI",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Doctor octopus",
+  "Afiliación": "4T, MM, 6S",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Electro",
+  "Afiliación": "6S",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Green goblin",
+  "Afiliación": "Thunderbolts, LNV",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Lizard",
+  "Afiliación": "6S",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Rhino",
+  "Afiliación": "NA",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Vulture",
+  "Afiliación": "6S",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Drax",
+  "Afiliación": "GOG",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Nebula",
+  "Afiliación": "Vengadores, GOG",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Rocket",
+  "Afiliación": "GOG",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Star Lord",
+  "Afiliación": "GOG, Defensores",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Doctor Doom",
+  "Afiliación": "Fundación Futura, 4T",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Namor",
+  "Afiliación": "Vengadores, Iluminati, Invasores, Defensores, Xmen",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Black Bolt ",
+  "Afiliación": "Vengadores, Iluminati",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Super Skrull",
+  "Afiliación": "NA",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Beast",
+  "Afiliación": "Vengadores, Iluminati, Xmen",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Black Cat",
+  "Afiliación": "HA, MS, Defensores",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Bullseye ",
+  "Afiliación": "4T",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Colossus",
+  "Afiliación": "Excalibur,Xmen",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Daredevil",
+  "Afiliación": "Vengadores, Defensores, NV",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Doctor Strange ",
+  "Afiliación": "Vengadores, HA, MS, Iluminati, Defensores, NV",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Elektra",
+  "Afiliación": "HA",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Gambito",
+  "Afiliación": "Xmen",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Gamora",
+  "Afiliación": "GOG",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Giant Man ",
+  "Afiliación": "Vengadores, Ultimates",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Human Torch",
+  "Afiliación": "Vengadores, Fundación Futura, HA, 4F, Invasores",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Kingpin",
+  "Afiliación": "4T",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Kraven",
+  "Afiliación": "Vengadores, 6S",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Luke Cage",
+  "Afiliación": "Vengadores, Thunderbolts, HA, NV",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Magneto",
+  "Afiliación": "Defensores, Xmen, CFI, HM",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Moon Knight",
+  "Afiliación": "Vengadores, HA, MS",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Ms Marvel ",
+  "Afiliación": "Vengadores, Defensores, NV, Xmen",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Multiple Man",
+  "Afiliación": "NA",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Mystique",
+  "Afiliación": "Xmen, HM",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Nightcrawler",
+  "Afiliación": "Excalibur, Xmen",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Nova",
+  "Afiliación": "Vengadores, GOG",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Picara",
+  "Afiliación": "Vengadores, Xmen, HM",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Scarlet Witch",
+  "Afiliación": "Vengadores, Ultimates, Force Works, DL",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Scorpion",
+  "Afiliación": "MM",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Storm",
+  "Afiliación": "DL, Xmen, CFI",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Thor",
+  "Afiliación": "Vengadores, Ultimates, GOG",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Winter Soldier ",
+  "Afiliación": "Invasores, LNV",
+  "Estado": "Zombie"
+ },
+ {
+  "Heroe": "Wolverine",
+  "Afiliación": "Vengadores, NV, Xmen",
+  "Estado": "Zombie"
+ }
+]

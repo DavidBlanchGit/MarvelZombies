@@ -1,0 +1,30 @@
+C:\Users\dbg20\Documents\VS\Marvel Zombies\Marvel Zombies\obj\Debug\net7.0-windows\Marvel Zombies.csproj.AssemblyReference.cache
+C:\Users\dbg20\Documents\VS\Marvel Zombies\Marvel Zombies\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\dbg20\Documents\VS\Marvel Zombies\Marvel Zombies\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\dbg20\Documents\VS\Marvel Zombies\Marvel Zombies\obj\Debug\net7.0-windows\Marvel Zombies_MarkupCompile.cache
+C:\Users\dbg20\Documents\VS\Marvel Zombies\Marvel Zombies\obj\Debug\net7.0-windows\Marvel Zombies_MarkupCompile.lref
+C:\Users\dbg20\Documents\VS\Marvel Zombies\Marvel Zombies\bin\Debug\net7.0-windows\Marvel Zombies.exe
+C:\Users\dbg20\Documents\VS\Marvel Zombies\Marvel Zombies\bin\Debug\net7.0-windows\Marvel Zombies.deps.json
+C:\Users\dbg20\Documents\VS\Marvel Zombies\Marvel Zombies\bin\Debug\net7.0-windows\Marvel Zombies.runtimeconfig.json
+C:\Users\dbg20\Documents\VS\Marvel Zombies\Marvel Zombies\bin\Debug\net7.0-windows\Marvel Zombies.dll
+C:\Users\dbg20\Documents\VS\Marvel Zombies\Marvel Zombies\bin\Debug\net7.0-windows\Marvel Zombies.pdb
+C:\Users\dbg20\Documents\VS\Marvel Zombies\Marvel Zombies\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\dbg20\Documents\VS\Marvel Zombies\Marvel Zombies\obj\Debug\net7.0-windows\Marvel Zombies.g.resources
+C:\Users\dbg20\Documents\VS\Marvel Zombies\Marvel Zombies\obj\Debug\net7.0-windows\Marvel Zombies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dbg20\Documents\VS\Marvel Zombies\Marvel Zombies\obj\Debug\net7.0-windows\Marvel Zombies.AssemblyInfoInputs.cache
+C:\Users\dbg20\Documents\VS\Marvel Zombies\Marvel Zombies\obj\Debug\net7.0-windows\Marvel Zombies.AssemblyInfo.cs
+C:\Users\dbg20\Documents\VS\Marvel Zombies\Marvel Zombies\obj\Debug\net7.0-windows\Marvel Zombies.csproj.CoreCompileInputs.cache
+C:\Users\dbg20\Documents\VS\Marvel Zombies\Marvel Zombies\obj\Debug\net7.0-windows\Marvel Zombies.dll
+C:\Users\dbg20\Documents\VS\Marvel Zombies\Marvel Zombies\obj\Debug\net7.0-windows\refint\Marvel Zombies.dll
+C:\Users\dbg20\Documents\VS\Marvel Zombies\Marvel Zombies\obj\Debug\net7.0-windows\Marvel Zombies.pdb
+C:\Users\dbg20\Documents\VS\Marvel Zombies\Marvel Zombies\obj\Debug\net7.0-windows\Marvel Zombies.genruntimeconfig.cache
+C:\Users\dbg20\Documents\VS\Marvel Zombies\Marvel Zombies\obj\Debug\net7.0-windows\ref\Marvel Zombies.dll
+C:\Users\dbg20\Documents\VS\Marvel Zombies\Marvel Zombies\obj\Debug\net7.0-windows\Themes\ColourfulDarkTheme.baml
+C:\Users\dbg20\Documents\VS\Marvel Zombies\Marvel Zombies\obj\Debug\net7.0-windows\Themes\ColourfulLightTheme.baml
+C:\Users\dbg20\Documents\VS\Marvel Zombies\Marvel Zombies\obj\Debug\net7.0-windows\Themes\DarkTheme.baml
+C:\Users\dbg20\Documents\VS\Marvel Zombies\Marvel Zombies\obj\Debug\net7.0-windows\Themes\LightTheme.baml
+C:\Users\dbg20\Documents\VS\Marvel Zombies\Marvel Zombies\obj\Debug\net7.0-windows\Themes\ColourfulDarkTheme.g.cs
+C:\Users\dbg20\Documents\VS\Marvel Zombies\Marvel Zombies\obj\Debug\net7.0-windows\Themes\ColourfulLightTheme.g.cs
+C:\Users\dbg20\Documents\VS\Marvel Zombies\Marvel Zombies\obj\Debug\net7.0-windows\Themes\DarkTheme.g.cs
+C:\Users\dbg20\Documents\VS\Marvel Zombies\Marvel Zombies\obj\Debug\net7.0-windows\Themes\LightTheme.g.cs
+C:\Users\dbg20\Documents\VS\Marvel Zombies\Marvel Zombies\obj\Debug\net7.0-windows\App.baml
